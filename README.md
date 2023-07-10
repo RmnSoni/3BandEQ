@@ -39,4 +39,4 @@ This project utilizes the following open-source software:
  - JUCE Framework - https://juce.com/
 
 This project is based on learnings from MatKat Music's 
-- PFM: Programming for Musicians course.
+- [PFM: Programming for Musicians course](https://www.programmingformusicians.com/).
